@@ -1,5 +1,5 @@
 # MyFirstApp
-Josh is AMAZING!
+Josh is AMAZING! NOT!!!!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
